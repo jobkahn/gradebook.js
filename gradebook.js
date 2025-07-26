@@ -2,7 +2,7 @@
 function fetchGradeData() 
 {
     // This function will query the PostgreSQL database and return grade data 
-    console.log("Fetching grade data...");
+    console.log("Fetching grade data");
     // Placeholder return statement for demonstration purposes
     return []; // Return an empty array or mock data for now
 }
